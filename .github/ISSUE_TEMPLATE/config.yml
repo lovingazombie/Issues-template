@@ -1,14 +1,14 @@
 blank_issues_enabled: false
 contact_links:
   - name: 🔍 Channel search
-    url: https://github.com/iptv-org/iptv/discussions/new?category=channel-search
+    url: https://github.com/lovingazombie/Issues-template/discussions/new?category=general
     about: Ask the community for help finding a link to the stream of the channel
   - name: 💡 Ideas
-    url: https://github.com/orgs/iptv-org/discussions/categories/ideas
+    url: https://github.com/lovingazombie/Issues-template/discussions/new?category=ideas
     about: Share ideas for new features
   - name: 🙌 Show and tell
-    url: https://github.com/orgs/iptv-org/discussions/categories/show-and-tell
-    about: Show off something you've made
+    url: https://github.com/lovingazombie/Issues-template/discussions/new?category=show-and-tell
+    about: Show off something you have made
   - name: ❓ Q&A
-    url: https://github.com/orgs/iptv-org/discussions/categories/q-a
+    url: https://github.com/lovingazombie/Issues-template/discussions/new?category=q-a
     about: Ask the community for help
